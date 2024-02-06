@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552987400782",
+    "project_id": "flutterchat-4b644",
+    "storage_bucket": "flutterchat-4b644.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552987400782:android:a351f239fad9021d01011f",
+        "android_client_info": {
+          "package_name": "com.threefalcons.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552987400782-lqbhig0q83f62mvt72l4bjirroq1oisb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBmny1ppV8yDy0iWN4EF0r7-e_F8NWwZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552987400782-lqbhig0q83f62mvt72l4bjirroq1oisb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
